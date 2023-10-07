@@ -1,0 +1,31 @@
+#EC1F26
+#414E5E
+#FBAC4B
+#82C6C7
+
+
+FUENTES:
+
+MONTSERRAT
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+AREF RUQAA INK
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;700&display=swap" rel="stylesheet">
+
+MEDIDAS DE REFERENCIA:
+-general:
+Encabezado: 1372.5x857.07
+Columnas: 484x115
+Pie de pagina:1372.5x47.29
+boton menu: 30x30
+
+-galeria:
+foto: 350x400
+cartel nombre: 200x66.04
+cartel descripcion inferior: 219.68x110.27
+cartel descripcion lateral: 250x300
+boton adoptar: 99.65x17.58
